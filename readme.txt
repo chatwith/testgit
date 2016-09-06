@@ -26,4 +26,10 @@ wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
 
 yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
 
+<<<<<<< Updated upstream
 tttttttttttttttttttttttttttttttttttttttttttttt
+=======
+dddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+
+rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrdfffff
+>>>>>>> Stashed changes
